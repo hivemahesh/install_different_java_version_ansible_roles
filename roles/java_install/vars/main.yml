@@ -1,0 +1,4 @@
+---
+# vars file for java_install
+
+  req_java: "{{java_version}}"
